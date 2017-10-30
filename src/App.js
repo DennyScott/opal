@@ -5,6 +5,13 @@ import logo from './logo.svg';
 import './App.css';
 import Home from 'modules/home';
 
+import './index.css';
+import './assets/bootstrap/css/bootstrap.min.css';
+import './assets/css/font-awesome.min.css';
+import './assets/css/linea-arrows.css';
+import './assets/css/linea-icons.css';
+import './assets/css/template.css';
+
 class App extends Component {
   render() {
     return (
