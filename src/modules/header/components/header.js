@@ -14,9 +14,9 @@ const Header = props => (
     <div className="container">
       <div className="row">
         <div className="col-md-12">
-          <h1 className="h1 m-b-20">Travis Scott</h1>
+          <h1 className="h1 m-b-20">Denny Scott</h1>
           <p className="m-b-40">
-            Developer - Game Designer - Board Game Enthusiast.
+            Software Developer - Game Designer - Undependable Blogger
           </p>
           <p>
             <Link
